@@ -1,5 +1,5 @@
 import unittest
-from src.stats import Player
+from valorant_player_api import Player
 
 class TestsPlayer(unittest.TestCase):
     def test_account_data(self):
